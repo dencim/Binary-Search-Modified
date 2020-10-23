@@ -4,12 +4,10 @@ Created on Sun Oct  4 19:57:21 2020
 
 @author: denis
 
-PART 3
 """
 
 import random
 
-#binary search is O(logn) so I will use a version of that
 
 def binary_search_mod(A, x):
     
